@@ -1,0 +1,14 @@
+fastapi[all]
+
+langchain
+langchain-community
+langchain-groq
+langchain-huggingface 
+langchain-text-splitters
+langchain-qdrant
+
+pymupdf
+
+qdrant-client
+
+sentence_transformers
