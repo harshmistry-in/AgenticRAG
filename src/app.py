@@ -1,7 +1,7 @@
 from fastapi import FastAPI, status
 from fastapi.responses import JSONResponse
 
-from services.ai_services import AIServices
+from src.services.ai_services import AIServices
 from src.api.v1.files import router as file_router
 from src.api.v1.query import router as query_router
 
