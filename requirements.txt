@@ -1,6 +1,7 @@
 fastapi[all]
 
 langchain
+langchain-cohere
 langchain-community
 langchain-groq
 langchain-huggingface 
@@ -12,3 +13,4 @@ pymupdf
 qdrant-client
 
 sentence_transformers
+werkzeug
